@@ -1,0 +1,7 @@
+.header {
+   padding: 10px;
+
+   @media (max-width: $screen-sm-max) {
+      background-color: $primary;
+   }
+}
